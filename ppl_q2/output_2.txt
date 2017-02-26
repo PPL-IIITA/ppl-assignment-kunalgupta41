@@ -1,0 +1,278 @@
+Boy31 Girl1gets
+3 12 26
+
+Boy25 Girl2gets
+3 12 26
+2 12 33
+
+Boy26 Girl3gets
+3 12 26
+2 12 33
+
+Boy3 Girl4gets
+3 12 26
+2 12 33
+
+Boy40 Girl5gets
+3 12 26
+2 12 33
+1 12 24
+3 12 27
+
+Boy67 Girl6gets
+3 12 26
+2 12 33
+1 12 24
+
+Boy29 Girl7gets
+3 12 26
+2 12 33
+1 12 24
+
+Boy44 Girl8gets
+3 12 26
+2 12 33
+1 12 24
+
+Boy22 Girl9gets
+3 12 26
+2 12 33
+1 12 24
+
+Boy70 Girl10gets
+3 12 26
+2 12 33
+1 12 24
+
+Boy83 Girl11gets
+3 12 26
+2 12 33
+
+Boy69 Girl12gets
+3 12 26
+2 12 33
+1 12 24
+3 12 27
+
+Boy76 Girl13gets
+3 12 26
+2 12 33
+
+Boy86 Girl14gets
+3 12 26
+2 12 33
+
+Boy78 Girl15gets
+3 12 26
+2 12 33
+1 12 24
+
+Boy16 Girl16gets
+3 12 26
+2 12 33
+1 12 24
+
+Boy42 Girl17gets
+3 12 26
+2 12 33
+1 12 24
+
+Boy6 Girl18gets
+3 12 26
+2 12 33
+1 12 24
+
+Boy62 Girl19gets
+3 12 26
+2 12 33
+
+Boy28 Girl20gets
+3 12 26
+2 12 33
+
+Boy34 Girl21gets
+3 12 26
+2 12 33
+1 12 24
+
+Boy87 Girl22gets
+3 12 26
+2 12 33
+1 12 24
+3 12 27
+
+Boy5 Girl23gets
+3 12 26
+2 12 33
+
+Boy90 Girl24gets
+3 12 26
+2 12 33
+1 12 24
+3 12 27
+3 12 32
+
+Boy88 Girl25gets
+3 12 26
+2 12 33
+1 12 24
+
+Boy52 Girl26gets
+3 12 26
+
+Boy2 Girl27gets
+3 12 26
+2 12 33
+1 12 24
+
+Boy68 Girl28gets
+3 12 26
+2 12 33
+
+Boy80 Girl29gets
+3 12 26
+2 12 33
+1 12 24
+3 12 27
+3 12 32
+
+Boy84 Girl30gets
+3 12 26
+2 12 33
+1 12 24
+
+Boy13 Girl31gets
+3 12 26
+2 12 33
+1 12 24
+3 12 27
+3 12 32
+
+Boy74 Girl32gets
+3 12 26
+
+Boy64 Girl33gets
+3 12 26
+2 12 33
+
+Boy15 Girl34gets
+3 12 26
+2 12 33
+1 12 24
+3 12 27
+3 12 32
+
+Boy77 Girl35gets
+3 12 26
+2 12 33
+
+Boy4 Girl36gets
+3 12 26
+2 12 33
+1 12 24
+3 12 27
+
+Boy27 Girl37gets
+3 12 26
+2 12 33
+1 12 24
+
+Boy82 Girl38gets
+3 12 26
+2 12 33
+1 12 24
+
+Boy24 Girl39gets
+3 12 26
+2 12 33
+1 12 24
+
+Boy14 Girl40gets
+3 12 26
+
+Boy7 Girl41gets
+3 12 26
+2 12 33
+
+Boy46 Girl42gets
+3 12 26
+2 12 33
+
+Boy17 Girl43gets
+3 12 26
+
+Boy81 Girl44gets
+3 12 26
+2 12 33
+1 12 24
+
+Boy57 Girl45gets
+3 12 26
+2 12 33
+
+Boy32 Girl46gets
+3 12 26
+2 12 33
+1 12 24
+3 12 27
+
+Boy48 Girl47gets
+3 12 26
+2 12 33
+
+Boy58 Girl48gets
+3 12 26
+2 12 33
+1 12 24
+3 12 27
+
+Boy18 Girl49gets
+3 12 26
+2 12 33
+
+Boy9 Girl50gets
+3 12 26
+2 12 33
+
+Boy33 Girl51gets
+3 12 26
+2 12 33
+1 12 24
+3 12 27
+3 12 32
+
+Boy20 Girl52gets
+3 12 26
+2 12 33
+
+Boy59 Girl53gets
+3 12 26
+2 12 33
+
+Boy61 Girl54gets
+3 12 26
+
+Boy41 Girl55gets
+3 12 26
+
+Boy30 Girl56gets
+3 12 26
+2 12 33
+1 12 24
+
+Boy21 Girl57gets
+3 12 26
+2 12 33
+
+Boy71 Girl58gets
+3 12 26
+2 12 33
+
+Boy56 Girl59gets
+3 12 26
+2 12 33
+
+Boy23 Girl60gets
+3 12 26
+2 12 33
+
