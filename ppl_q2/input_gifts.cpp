@@ -91,7 +91,7 @@ void gifting(The_Utility_Gifts x[])
 		The_Utility_Gifts temp;
 		for(i=0;i<=99;i++)
 		{
-			for(j=0;j<=99;j++)
+			for(j=i;j<=99;j++)
 			{
 				if(x[i].get_price() < x[j].get_price())
 				{
@@ -168,7 +168,7 @@ void gifting(The_Utility_Gifts x[])
 		couple temp1;
 		for(i=0;i<=59;i++)
 		{
-			for(j=0;j<=59;j++)
+			for(j=i;j<=59;j++)
 			{
 				if(cup[i].get_h() < cup[j].get_h())
 				{
@@ -185,7 +185,7 @@ void gifting(The_Utility_Gifts x[])
 		}
 		for(i=0;i<=59;i++)
 		{
-			for(j=0;j<=59;j++)
+			for(j=i;j<=59;j++)
 			{
 				if(cup[i].get_c() < cup[j].get_c())
 				{
