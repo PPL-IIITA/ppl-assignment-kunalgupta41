@@ -6,15 +6,23 @@ The repository contains nine folders ppl_q1 to ppl_q8 and a documentation folder
 
 # GETTING STARTED
 
-The Project was built in: BOSS GNU/Linux 6 (anoop) 64-bit
+Project was made and tested in Ubuntu 16.10.
+C++11 Complier or above required.
 The Project was built using: Sublime Text 3.
 The Documentation was made using Doxygen and Latex.
-The class Diagrams were made using StarUML.
+The class Diagrams were made using StarUML and Visual Paradigm.
 
 # PREREQUISITES
 
 g++ Compiler.
 BUILDING AND RUNNING
+
+# VALUES
+
+Number of boys,girls and gifts taken are 80,60 and 100 respectively.
+Nothing is inputted from the console.
+The value of K (if required) is taken through rand() function.
+
 
 # QUESTION 1
 
