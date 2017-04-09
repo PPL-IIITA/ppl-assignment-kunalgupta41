@@ -113,3 +113,22 @@ then enter the command ./a.out
 this will print originally formed couples,random value of t,couples with happiness less than t and newly formed couples on console.
 
 couples with happiness less than t broke up and after reallotment of new parteners they are stored in "new_couples.txt" file
+
+
+
+# QUESTION 7
+
+Open the Folder ppl_q7
+
+Open terminal and change the address to ppl_q7 folder directory.
+
+Build the code using the following command:
+
+g++ input_q7.cpp The_Choosy_Girl.cpp The_Generous_Boy.cpp q7.cpp couple.cpp
+
+then enter the command ./a.out
+
+this will  print the randomly generated choice(array,binary search or hashing) and the relationship status of some preinputted boys and the same will be stored in output_q7.txt file.
+
+
+# QUESTION 8
