@@ -147,4 +147,4 @@ This will print the randomly generated choice and gifting among all couples on c
 
 gifting among all couples is also stored in output_8.txt
 
-### PLEASE NOTE THAT I AM STORING THE RESULT OF GIFTING IN OUTPUT_8.TXT IN BOTH CASES(case:1 IF WE USE ALGO OF Q2 and case 2 : if we use the algo that each type of gift is to be alloted first).SO If you see that not all types of gifts are alloted in output_8.txt that just means that random choice 1 was generated and hence algo of q2 ran.And if you see that gifts of all types are alloted first then that means random value 2 was generated and latter algo ran.
+### PLEASE NOTE THAT I AM STORING THE RESULT OF GIFTING IN OUTPUT_8.TXT IN BOTH CASES(case:1 IF WE USE ALGO OF Q2 and case 2 : if we use the algo that each type of gift is to be alloted first).SO If you see that not all types of gifts are alloted first in output_8.txt that just means that random choice 1 was generated and hence algo of q2 ran.And if you see that gifts of all types are alloted first then that means random value 2 was generated and latter algo ran.
