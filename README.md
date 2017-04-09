@@ -100,9 +100,9 @@ all the couples formed are then stored in output_5.txt and "k" most happy couple
 
 # QUESTION 6
 
-Open the Folder ppl_q5
+Open the Folder ppl_q6
 
-Open terminal and change the address to ppl_q5 folder directory.
+Open terminal and change the address to ppl_q7 folder directory.
 
 Build the code using the following command:
 
