@@ -98,3 +98,18 @@ This will print all the couples formed followed by the randomly generated value 
 all the couples formed are then stored in output_5.txt and "k" most happy couples along with their happiness value are stored in k_most_happy_q5.txt file present in same folder.
 
 
+# QUESTION 6
+
+Open the Folder ppl_q5
+
+Open terminal and change the address to ppl_q5 folder directory.
+
+Build the code using the following command:
+
+g++ input_q6.cpp The_Choosy_Girl.cpp The_Generous_Boy.cpp q6.cpp The_Utility_Gifts.cpp couple.cpp
+
+then enter the command ./a.out
+
+this will print originally formed couples,random value of t,couples with happiness less than t and newly formed couples on console.
+
+couples with happiness less than t broke up and after reallotment of new parteners they are stored in "new_couples.txt" file
