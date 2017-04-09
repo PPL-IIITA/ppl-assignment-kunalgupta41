@@ -21,7 +21,7 @@ BUILDING AND RUNNING
 
 # VALUES
 
-Number of boys,girls and gifts taken are 80,60 and 100 respectively.
+Number of boys,girls and gifts taken are 90,60 and 100 respectively.
 Nothing is inputted from the console.
 The value of K (if required) is taken through rand() function.
 
