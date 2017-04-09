@@ -132,3 +132,19 @@ this will  print the randomly generated choice(array,binary search or hashing) a
 
 
 # QUESTION 8
+
+Open the Folder ppl_q8
+
+Open terminal and change the address to ppl_q8 folder directory.
+
+Build the code using the following command:
+
+g++ q8.cpp input_q8.cpp The_Utility_Gifts.cpp The_Choosy_Girl.cpp The_Generous_Boy.cpp couple.cpp
+
+then enter the command ./a.out
+
+This will print the randomly generated choice and gifting among all couples on console.
+
+gifting among all couples is also stored in output_8.txt
+
+### PLEASE NOTE THAT I AM STORING THE RESULT OF GIFTING IN OUTPUT_8.TXT IN BOTH CASES(case:1 IF WE USE ALGO OF Q2 and case 2 : if we use the algo that each type of gift is to be alloted first).SO If you see that not all types of gifts are alloted in output_8.txt that just means that random choice 1 was generated and hence algo of q2 ran.And if you see that gifts of all types are alloted first then that means random value 2 was generated and latter algo ran.
