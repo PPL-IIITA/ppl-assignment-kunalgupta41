@@ -50,3 +50,13 @@ And then give the command:
 
 then give the value of k in terminal.
 This will print the gift exchanges , k happiest couples, k most compatible couples in the console and output will be printed in output_2.txt file
+
+
+# QUESTION 3
+
+1 Open the Folder ppl_q3
+2 Open terminal and change the address to this folder directory.
+3 enter this command to build the code:
+          g++ q3.cpp input_gifts.cpp The_Utility_Gifts.cpp The_Choosy_Girl.cpp The_Generous_Boy.cpp couple.cpp
+4 then hit the command ./a.out
+5 This will print the gifting between all the couples and the 'k' most happiest and compatible couples along with their happiness and compatibility values on console and the same result will also be stored in ouput_3.txt file.Value of k was generated randomly.
