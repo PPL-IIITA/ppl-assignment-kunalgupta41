@@ -4,6 +4,8 @@ ppl-assignment-kunalgupta41 created by GitHub Classroom
 
 The repository contains nine folders ppl_q1 to ppl_q8 and a documentation folder which contains documentation for ppl_q3-ppl_q8.Documentations of ppl_q1 and ppl_q2 are in their respective folders. Each of the folders except "Documentation: contains the Source Codes, Class Diagram and the output files. The codes are written in cpp.
 
+The documentation of the project has been generated. To view documentation, go to documentation/index.html  
+
 # GETTING STARTED
 
 Project was made and tested in Ubuntu 16.10.
