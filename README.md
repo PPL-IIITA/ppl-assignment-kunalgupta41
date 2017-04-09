@@ -60,3 +60,18 @@ This will print the gift exchanges , k happiest couples, k most compatible coupl
           g++ q3.cpp input_gifts.cpp The_Utility_Gifts.cpp The_Choosy_Girl.cpp The_Generous_Boy.cpp couple.cpp
 4. then hit the command ./a.out
 5. This will print the gifting between all the couples and the 'k' most happiest and compatible couples along with their happiness and compatibility values on console and the same result will also be stored in ouput_3.txt file.Value of k was generated randomly.
+
+
+# QUESTION 4
+
+Open the Folder ppl_q4
+Open terminal and change the address to ppl_q4 folder directory.
+Build the code using the following command:
+          g++ q2.cpp input_gifts.cpp The_Utility_Gifts.cpp The_Choosy_Girl.cpp The_Generous_Boy.cpp couple.cpp
+ Then enter the command ./a.out.This will print the randomly generated value of "k" and the k least happy couples on console
+ 
+ Again Build the code using the following command:
+          g++ q4_input.cpp The_Choosy_Girl.cpp The_Generous_Boy.cpp q4.cpp
+  now again enter the command ./a.out. This will print the new pairs who brokeup and the same will also be printed in ## q4_output.txt
+          
+
