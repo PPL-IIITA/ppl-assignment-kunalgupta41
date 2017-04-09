@@ -75,7 +75,8 @@ g++ q2.cpp input_gifts.cpp The_Utility_Gifts.cpp The_Choosy_Girl.cpp The_Generou
 Then enter the command ./a.out.This will print the randomly generated value of "k" and the k least happy couples on console
  
  Again Build the code using the following command:
-          g++ q4_input.cpp The_Choosy_Girl.cpp The_Generous_Boy.cpp q4.cpp
+ 
+ g++ q4_input.cpp The_Choosy_Girl.cpp The_Generous_Boy.cpp q4.cpp
 
 now again enter the command ./a.out. This will print the new pairs who brokeup and the same will also be printed in q4_output.txt
           
