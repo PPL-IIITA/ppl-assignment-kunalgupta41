@@ -81,3 +81,20 @@ Then enter the command ./a.out.This will print the randomly generated value of "
 now again enter the command ./a.out. This will print the new pairs who brokeup and the same will also be printed in q4_output.txt
           
 
+# QUESTION 5
+
+Open the Folder ppl_q5
+
+Open terminal and change the address to ppl_q5 folder directory.
+
+Build the code using the following command:
+
+g++ input_q5.cpp The_Choosy_Girl.cpp The_Generous_Boy.cpp q5.cpp The_Utility_Gifts.cpp couple.cpp
+
+then enter the command ./a.out
+
+This will print all the couples formed followed by the randomly generated value of k and the k most happiest couples along with their happiness in console.
+
+all the couples formed are then stored in output_5.txt and "k" most happy couples along with their happiness value are stored in k_most_happy_q5.txt file present in same folder.
+
+
