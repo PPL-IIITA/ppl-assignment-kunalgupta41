@@ -1,0 +1,220 @@
+Boy31 Girl1gets
+2 21 33
+
+Boy25 Girl2gets
+2 21 33
+3 21 25
+
+Boy26 Girl3gets
+2 21 33
+
+Boy3 Girl4gets
+2 21 33
+
+Boy40 Girl5gets
+2 21 33
+3 21 25
+
+Boy67 Girl6gets
+2 21 33
+3 21 25
+
+Boy29 Girl7gets
+2 21 33
+3 21 25
+
+Boy44 Girl8gets
+2 21 33
+3 21 25
+
+Boy22 Girl9gets
+2 21 33
+3 21 25
+
+Boy70 Girl10gets
+2 21 33
+3 21 25
+
+Boy83 Girl11gets
+2 21 33
+
+Boy69 Girl12gets
+2 21 33
+3 21 25
+2 21 29
+
+Boy76 Girl13gets
+2 21 33
+
+Boy86 Girl14gets
+2 21 33
+
+Boy78 Girl15gets
+2 21 33
+3 21 25
+
+Boy16 Girl16gets
+2 21 33
+3 21 25
+
+Boy42 Girl17gets
+2 21 33
+3 21 25
+
+Boy6 Girl18gets
+2 21 33
+3 21 25
+
+Boy62 Girl19gets
+2 21 33
+
+Boy28 Girl20gets
+2 21 33
+
+Boy34 Girl21gets
+2 21 33
+3 21 25
+
+Boy87 Girl22gets
+2 21 33
+3 21 25
+
+Boy5 Girl23gets
+2 21 33
+
+Boy90 Girl24gets
+2 21 33
+3 21 25
+2 21 29
+
+Boy88 Girl25gets
+2 21 33
+3 21 25
+
+Boy52 Girl26gets
+2 21 33
+
+Boy2 Girl27gets
+2 21 33
+3 21 25
+
+Boy68 Girl28gets
+2 21 33
+3 21 25
+
+Boy80 Girl29gets
+2 21 33
+3 21 25
+2 21 29
+
+Boy84 Girl30gets
+2 21 33
+3 21 25
+
+Boy13 Girl31gets
+2 21 33
+3 21 25
+2 21 29
+
+Boy74 Girl32gets
+2 21 33
+
+Boy64 Girl33gets
+2 21 33
+
+Boy15 Girl34gets
+2 21 33
+3 21 25
+2 21 29
+
+Boy77 Girl35gets
+2 21 33
+
+Boy4 Girl36gets
+2 21 33
+3 21 25
+
+Boy27 Girl37gets
+2 21 33
+3 21 25
+
+Boy82 Girl38gets
+2 21 33
+3 21 25
+
+Boy24 Girl39gets
+2 21 33
+3 21 25
+
+Boy14 Girl40gets
+2 21 33
+
+Boy7 Girl41gets
+2 21 33
+
+Boy46 Girl42gets
+2 21 33
+
+Boy17 Girl43gets
+2 21 33
+
+Boy81 Girl44gets
+2 21 33
+3 21 25
+
+Boy57 Girl45gets
+2 21 33
+3 21 25
+
+Boy32 Girl46gets
+2 21 33
+3 21 25
+
+Boy48 Girl47gets
+2 21 33
+
+Boy58 Girl48gets
+2 21 33
+3 21 25
+
+Boy18 Girl49gets
+2 21 33
+
+Boy9 Girl50gets
+2 21 33
+
+Boy33 Girl51gets
+2 21 33
+3 21 25
+2 21 29
+
+Boy20 Girl52gets
+2 21 33
+
+Boy59 Girl53gets
+2 21 33
+
+Boy61 Girl54gets
+2 21 33
+
+Boy41 Girl55gets
+2 21 33
+
+Boy30 Girl56gets
+2 21 33
+3 21 25
+
+Boy21 Girl57gets
+2 21 33
+3 21 25
+
+Boy71 Girl58gets
+2 21 33
+3 21 25
+
+Boy56 Girl59gets
+2 21 33
+
+Boy23 Girl60gets
+2 21 33
+

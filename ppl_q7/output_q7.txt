@@ -1,0 +1,11 @@
+status of some boys is :
+Boy1 is not committed to any girl
+Boy6 is committed to Girl18
+Boy31 is committed to Girl1
+Boy45 is not committed to any girl
+Boy51 is not committed to any girl
+Boy62 is committed to Girl19
+Boy67 is committed to Girl6
+Boy76 is committed to Girl13
+Boy82 is committed to Girl38
+Boy86 is committed to Girl14

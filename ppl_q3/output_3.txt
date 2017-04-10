@@ -1,0 +1,259 @@
+Boy31 Girl1gets
+2 21 28
+
+Boy25 Girl2gets
+2 21 28
+2 21 32
+
+Boy26 Girl3gets
+2 21 28
+
+Boy3 Girl4gets
+2 21 28
+
+Boy40 Girl5gets
+2 21 28
+2 21 32
+
+Boy67 Girl6gets
+2 21 28
+2 21 32
+
+Boy29 Girl7gets
+2 21 28
+2 21 32
+
+Boy44 Girl8gets
+2 21 28
+2 21 32
+
+Boy22 Girl9gets
+2 21 28
+2 21 32
+
+Boy70 Girl10gets
+2 21 28
+2 21 32
+
+Boy83 Girl11gets
+2 21 28
+
+Boy69 Girl12gets
+2 21 28
+2 21 32
+1 21 30
+
+Boy76 Girl13gets
+2 21 28
+
+Boy86 Girl14gets
+2 21 28
+
+Boy78 Girl15gets
+2 21 28
+2 21 32
+
+Boy16 Girl16gets
+2 21 28
+2 21 32
+
+Boy42 Girl17gets
+2 21 28
+2 21 32
+
+Boy6 Girl18gets
+2 21 28
+2 21 32
+
+Boy62 Girl19gets
+2 21 28
+
+Boy28 Girl20gets
+2 21 28
+
+Boy34 Girl21gets
+2 21 28
+2 21 32
+
+Boy87 Girl22gets
+2 21 28
+2 21 32
+
+Boy5 Girl23gets
+2 21 28
+
+Boy90 Girl24gets
+2 21 28
+2 21 32
+1 21 30
+
+Boy88 Girl25gets
+2 21 28
+2 21 32
+
+Boy52 Girl26gets
+2 21 28
+
+Boy2 Girl27gets
+2 21 28
+2 21 32
+
+Boy68 Girl28gets
+2 21 28
+2 21 32
+
+Boy80 Girl29gets
+2 21 28
+2 21 32
+1 21 30
+
+Boy84 Girl30gets
+2 21 28
+2 21 32
+
+Boy13 Girl31gets
+2 21 28
+2 21 32
+1 21 30
+
+Boy74 Girl32gets
+2 21 28
+
+Boy64 Girl33gets
+2 21 28
+
+Boy15 Girl34gets
+2 21 28
+2 21 32
+1 21 30
+
+Boy77 Girl35gets
+2 21 28
+
+Boy4 Girl36gets
+2 21 28
+2 21 32
+
+Boy27 Girl37gets
+2 21 28
+2 21 32
+
+Boy82 Girl38gets
+2 21 28
+2 21 32
+
+Boy24 Girl39gets
+2 21 28
+2 21 32
+
+Boy14 Girl40gets
+2 21 28
+
+Boy7 Girl41gets
+2 21 28
+
+Boy46 Girl42gets
+2 21 28
+
+Boy17 Girl43gets
+2 21 28
+
+Boy81 Girl44gets
+2 21 28
+2 21 32
+
+Boy57 Girl45gets
+2 21 28
+2 21 32
+
+Boy32 Girl46gets
+2 21 28
+2 21 32
+
+Boy48 Girl47gets
+2 21 28
+
+Boy58 Girl48gets
+2 21 28
+2 21 32
+
+Boy18 Girl49gets
+2 21 28
+
+Boy9 Girl50gets
+2 21 28
+
+Boy33 Girl51gets
+2 21 28
+2 21 32
+1 21 30
+
+Boy20 Girl52gets
+2 21 28
+
+Boy59 Girl53gets
+2 21 28
+
+Boy61 Girl54gets
+2 21 28
+
+Boy41 Girl55gets
+2 21 28
+
+Boy30 Girl56gets
+2 21 28
+2 21 32
+
+Boy21 Girl57gets
+2 21 28
+2 21 32
+
+Boy71 Girl58gets
+2 21 28
+2 21 32
+
+Boy56 Girl59gets
+2 21 28
+
+Boy23 Girl60gets
+2 21 28
+
+randomly generated value of k is 18
+according to the happiness of the couples,most happy18 couples and their happiness are
+Boy42 Girl17 230
+Boy16 Girl16 225
+Boy26 Girl3 225
+Boy78 Girl15 220
+Boy3 Girl4 210
+Boy52 Girl26 210
+Boy28 Girl20 205
+Boy83 Girl11 205
+Boy40 Girl5 200
+Boy2 Girl27 200
+Boy34 Girl21 185
+Boy87 Girl22 185
+Boy14 Girl40 185
+Boy41 Girl55 185
+Boy25 Girl2 180
+Boy18 Girl49 175
+Boy70 Girl10 170
+Boy61 Girl54 165
+according to the compatibility of the couples,most compatible 18 couples and their compatibility are 
+Boy83 Girl11 552
+Boy26 Girl3 543
+Boy44 Girl8 531
+Boy59 Girl53 456
+Boy48 Girl47 435
+Boy15 Girl34 432
+Boy41 Girl55 414
+Boy29 Girl7 408
+Boy40 Girl5 396
+Boy58 Girl48 387
+Boy17 Girl43 372
+Boy28 Girl20 366
+Boy57 Girl45 351
+Boy22 Girl9 333
+Boy7 Girl41 318
+Boy6 Girl18 318
+Boy86 Girl14 318
+Boy69 Girl12 318

@@ -1,0 +1,220 @@
+
+Boy31 Girl1gets gifts
+type 2 price 21 value 26
+
+Boy25 Girl2gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy26 Girl3gets gifts
+type 2 price 21 value 26
+
+Boy3 Girl4gets gifts
+type 2 price 21 value 26
+
+Boy40 Girl5gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy67 Girl6gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy29 Girl7gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy44 Girl8gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy22 Girl9gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy70 Girl10gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy83 Girl11gets gifts
+type 2 price 21 value 26
+
+Boy69 Girl12gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+type 2 price 21 value 27
+
+Boy76 Girl13gets gifts
+type 2 price 21 value 26
+
+Boy86 Girl14gets gifts
+type 2 price 21 value 26
+
+Boy78 Girl15gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy16 Girl16gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy42 Girl17gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy6 Girl18gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy62 Girl19gets gifts
+type 2 price 21 value 26
+
+Boy28 Girl20gets gifts
+type 2 price 21 value 26
+
+Boy34 Girl21gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy87 Girl22gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy5 Girl23gets gifts
+type 2 price 21 value 26
+
+Boy90 Girl24gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+type 2 price 21 value 27
+
+Boy88 Girl25gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy52 Girl26gets gifts
+type 2 price 21 value 26
+
+Boy2 Girl27gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy68 Girl28gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy80 Girl29gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+type 2 price 21 value 27
+
+Boy84 Girl30gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy13 Girl31gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+type 2 price 21 value 27
+
+Boy74 Girl32gets gifts
+type 2 price 21 value 26
+
+Boy64 Girl33gets gifts
+type 2 price 21 value 26
+
+Boy15 Girl34gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+type 2 price 21 value 27
+
+Boy77 Girl35gets gifts
+type 2 price 21 value 26
+
+Boy4 Girl36gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy27 Girl37gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy82 Girl38gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy24 Girl39gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy14 Girl40gets gifts
+type 2 price 21 value 26
+
+Boy7 Girl41gets gifts
+type 2 price 21 value 26
+
+Boy46 Girl42gets gifts
+type 2 price 21 value 26
+
+Boy17 Girl43gets gifts
+type 2 price 21 value 26
+
+Boy81 Girl44gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy57 Girl45gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy32 Girl46gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy48 Girl47gets gifts
+type 2 price 21 value 26
+
+Boy58 Girl48gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy18 Girl49gets gifts
+type 2 price 21 value 26
+
+Boy9 Girl50gets gifts
+type 2 price 21 value 26
+
+Boy33 Girl51gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+type 2 price 21 value 27
+
+Boy20 Girl52gets gifts
+type 2 price 21 value 26
+
+Boy59 Girl53gets gifts
+type 2 price 21 value 26
+
+Boy61 Girl54gets gifts
+type 2 price 21 value 26
+
+Boy41 Girl55gets gifts
+type 2 price 21 value 26
+
+Boy30 Girl56gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy21 Girl57gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy71 Girl58gets gifts
+type 2 price 21 value 26
+type 1 price 21 value 26
+
+Boy56 Girl59gets gifts
+type 2 price 21 value 26
+
+Boy23 Girl60gets gifts
+type 2 price 21 value 26
